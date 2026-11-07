@@ -1,4 +1,3 @@
-# SistemaEscolarPrimariaIrene_Herencia
 # Sistema Escolar Primaria Irene - Herencia
 
 ## Descripción
